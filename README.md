@@ -12,9 +12,11 @@ One approach is to utilize a blue/green deployment methodology to build an entir
 •	Systems Manager Automated Document to orchestrate the execution.
 •	CloudFormation with AutoScalingReplacingUpdate update policy, to gracefully deploy the newly created AMI into the workload with minimal interruption to the application availability.
 
-We will deploy section 1 and 2 of the lab with CloudFormation templates to get your environment built as efficiently as possible. This will allow the base infrastructure and application deployment to be completed quickly so you can focus on the main lab objectives which are covered in sections 3 and 4. In these sections, we will give you the choice of either using additional pre-built templates or manual steps to complete the EC2 Image Builder and Systems Manager Document configuration.
+We will deploy section 1 and 2 of the lab with CloudFormation templates to get your environment built as efficiently as possible. This will allow the base infrastructure and application deployment to be completed quickly so you can focus on the main lab objectives which are covered in sections 3 and 4. 
+In these sections, we will give you the choice of either using additional pre-built templates or manual steps to complete the EC2 Image Builder and Systems Manager Document configuration.
 The skills you learn from this lab will help you secure your workloads in alignment with the AWS Well-Architected Framework.
-Note: For simplicity, we have used Sydney ‘ap-southeast-2’ as the default region for this lab. Please ensure all lab interaction is completed from this region.
+
+# Note: For simplicity, we have used Sydney ‘ap-southeast-2’ as the default region for this lab. Please ensure all lab interaction is completed from this region.
 Prerequisites
 •	An AWS account that you are able to use for testing, that is not used for production or other purposes.
 NOTE: You will be billed for any applicable AWS resources used if you complete this lab that are not covered in the AWS Free Ties.
