@@ -49,6 +49,7 @@ When the CloudFormation template deployment is completed, note the outputs produ
 You can do this by clicking on the stack name you just created, and select the Outputs Tab as shown in diagram below.
 
 ![image](https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/assets/134625092/173745fa-9062-4cbb-824d-561a0066494e)
+
 You can now proceed to Section 2 of the lab where we will build out the application stack.
 
 # End on Step-1
