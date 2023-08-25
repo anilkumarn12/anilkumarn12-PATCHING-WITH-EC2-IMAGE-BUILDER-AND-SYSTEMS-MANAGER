@@ -3,8 +3,10 @@
 Patching is a vital component to any security strategy which ensures that your compute environments are operating with the latest code revisions available. This in turn means that you are running with the latest security updates for the system, which reduces the potential attack surface of your workload.
 The majority of compliance frameworks require evidence of patching strategy or some sort. This means that patching needs to be performed on a regular basis. Depending on the criticality of the workload, the operational overhead will need to be managed in a way that poses minimal impact to the workload’s availability.
 Ensuring that you have an automated patching solution, will contribute to building a good security posture, while at the same time reducing the operational overhead, together with allowing traceability that can potentially be useful for future compliance audits.
+
 There are multiple different approaches available to automate operating system patching using a combination of AWS services.
 One approach is to utilize a blue/green deployment methodology to build an entirely new Amazon Machine Image (AMI) that contains the latest operating system patch, which can be deployed into the application cluster. 
+
  This lab will walk you through this approach, utilizing a combination of the following services and features:
 •	EC2 Image Builder to automate creation of the AMI
 •	Systems Manager Automated Document to orchestrate the execution.
@@ -15,6 +17,7 @@ Note: For simplicity, we have used Sydney ‘ap-southeast-2’ as the default re
 Prerequisites
 •	An AWS account that you are able to use for testing, that is not used for production or other purposes.
 NOTE: You will be billed for any applicable AWS resources used if you complete this lab that are not covered in the AWS Free Ties.
+
 Steps:
 1.	Deploy The Lab Base Infrastructure
 2.	Deploy The Application Infrastructure
