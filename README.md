@@ -67,7 +67,8 @@ Building each component in this section manually will take a bit of time, and be
 Please follow the steps below to do so :
 # 2.1. Get the CloudFormation Template:
 To deploy the second CloudFormation template, you can either deploy directly from the command line or via the console.
-You can click below link go to GitHub and click on step-2 used on template
+You can click below link go to GitHub and click on step-2 used on template.
+
 https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/tree/master
 
 # 2.1.1.
