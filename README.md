@@ -86,7 +86,9 @@ BselineVpcStack = pattern3-app
 Once the stack creation is complete, let’s check that the application deployment has been successful. To do this follow below steps:
  Go to the Outputs section of the CloudFormation stack you just deployed.
 	Note the value of OutputPattern3ALBDNSName and you can find the DNS name as per screen shot below:
+
 ![image](https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/assets/134625092/1c502941-3090-40ab-8f37-a7db0dcf8b7d)
+
 	Copy the value and paste it into a web browser.
 	If you have configured everything correctly, you should be able to view a webpage with ‘Welcome to Re:Invent 2020 The Well Architected Way’ as the page title.
 	Adding /details.php to the end of your DNS address will list the packages currently available, together with the AMI which has been used to create the instance as follows:
