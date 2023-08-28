@@ -187,3 +187,7 @@ From the CloudFormation console, select the stack named pattern3-app from the li
 
 # 5.4. Remove the Base Infrastructure Stack
 From the CloudFormation console, select the stack named pattern3-base from the list and select Delete and confirm the deletion in the next dialog box.
+
+
+this is my PPT presentation link in canva any one can see and used it.
+https://www.canva.com/design/DAFsy_6mlgY/Trv7V7F3JcbYh5IWtWJFuA/view?utm_content=DAFsy_6mlgY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
