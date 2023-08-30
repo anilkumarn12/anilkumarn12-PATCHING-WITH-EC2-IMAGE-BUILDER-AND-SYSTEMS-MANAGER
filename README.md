@@ -166,9 +166,11 @@ ImageBuilderPipeline = u can give 3rd step name = pattern3-pipeline
 
 # 4.2. Successfully resources created
 ![image](https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/assets/134625092/032a529f-98e9-40c5-a0f2-11ebc79dbe6d)
+
 In AWS Systems Manager created in document
 
 ![image](https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/assets/134625092/cace7d49-0f4d-446a-865c-292800419f54)
+
 Successfully created in Document
 
 # END OF SECTION 4
