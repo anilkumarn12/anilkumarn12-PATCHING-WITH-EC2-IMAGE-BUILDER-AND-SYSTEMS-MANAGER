@@ -166,7 +166,12 @@ ImageBuilderPipeline = u can give 3rd step name = pattern3-pipeline
 
 # 4.2. Successfully resources created
 ![image](https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/assets/134625092/032a529f-98e9-40c5-a0f2-11ebc79dbe6d)
-END OF SECTION 4
+In AWS Systems Manager created in document
+
+![image](https://github.com/anilkumarn12/anilkumarn12-PATCHING-WITH-EC2-IMAGE-BUILDER-AND-SYSTEMS-MANAGER/assets/134625092/cace7d49-0f4d-446a-865c-292800419f54)
+Successfully created in Document
+
+# END OF SECTION 4
 
 # Step-5: TEARDOWN
 The following steps will remove the services which are deployed in the lab
@@ -189,5 +194,5 @@ From the CloudFormation console, select the stack named pattern3-app from the li
 From the CloudFormation console, select the stack named pattern3-base from the list and select Delete and confirm the deletion in the next dialog box.
 
 
-this is my PPT presentation link in canva any one can see and used it.
+# This is my PPT presentation link in canva any one can see and used it.
 https://www.canva.com/design/DAFsy_6mlgY/Trv7V7F3JcbYh5IWtWJFuA/view?utm_content=DAFsy_6mlgY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
